@@ -73,7 +73,7 @@ The dataset contains information related to:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard pdf](Project_sales.pdf)
 
 ---
 
